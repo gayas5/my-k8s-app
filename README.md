@@ -156,7 +156,5 @@ Whenever you update manifests in Git:
 
 ---
 
-If you want, I can also **add a section with a live screenshot example of ArgoCD UI showing the synced Nginx app**, which makes the README look very professional for demos.  
 
-Do you want me to add that?
 ```
